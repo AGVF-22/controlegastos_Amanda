@@ -22,4 +22,9 @@ class Gastos extends CI_Controller {
 	{
 		$this->load->view('listar_gastos');
 	}
+
+    public function novo()
+	{
+		$this->load->view('novo_gasto');
+	}
 }

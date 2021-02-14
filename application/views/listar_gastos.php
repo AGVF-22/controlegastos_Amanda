@@ -10,6 +10,8 @@
 
 <table>
 
+<h2>Lista de gastos</h2>
+
     <tr>
         <td>Data</td>
         <td>Descricao</td>

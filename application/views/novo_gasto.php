@@ -10,6 +10,8 @@
 
 <form action="">
 
+<h2>Cadastrar gasto</h2>
+
     <label for="data">Data: <input type="date" name="data"></label><br>
     <label for="descricao">Descrição: <input type="text" name="descricao"></label><br>
     <label for="valor">Valor: <input type="number" name="valor"></label><br>

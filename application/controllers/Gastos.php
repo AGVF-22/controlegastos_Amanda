@@ -28,3 +28,5 @@ class Gastos extends CI_Controller {
 		$this->load->view('novo_gasto');
 	}
 }
+
+?>

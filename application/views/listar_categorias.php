@@ -14,10 +14,8 @@
         <li>Transporte</li>
         <li>Alimentação</li>
         <li>Remédios</li>
+        <li>Outras</li>
     </ul>
-
-    <a href="nova_categoria.php">Adicionar categoria</a>
-    <a href="listar_gastos.php">Lista de gastos</a>
 
 </body>
 </html>

@@ -35,8 +35,6 @@
 
 </table>
 
-<a href="novo_gasto.php">Adicionar gasto</a><br>
-<a href="listar_categorias.php">Lista de categorias</a>
     
 </body>
 </html>

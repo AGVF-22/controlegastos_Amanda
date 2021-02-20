@@ -16,5 +16,8 @@
         <li>Remédios</li>
     </ul>
 
+    <a href="nova_categoria.php">Adicionar categoria</a>
+    <a href="listar_gastos.php">Lista de gastos</a>
+
 </body>
 </html>

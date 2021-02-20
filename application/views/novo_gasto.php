@@ -19,6 +19,8 @@
     <button>Apagar</button>
 
 </form>
+
+<a href="listar_gastos.php">Voltar</a>
     
 </body>
 </html>

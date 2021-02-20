@@ -15,5 +15,7 @@
     <button>Enviar</button>
     <button>Apagar</button>
 
+    <a href="listar_categorias.php">Voltar</a>
+
 </body>
 </html>
